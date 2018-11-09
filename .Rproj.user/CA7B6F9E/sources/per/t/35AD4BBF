@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1539681059950.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1991156296",
+    "id" : "35AD4BBF",
+    "lastKnownWriteTime" : 1541684036,
+    "last_content_update" : 1541684036074,
+    "path" : "~/Code/derm_course/research_techniques.Rmd",
+    "project_path" : "research_techniques.Rmd",
+    "properties" : {
+        "cursorPosition" : "221,35",
+        "last_setup_crc32" : "F0C57ED41d28c25f",
+        "scrollLine" : "208",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

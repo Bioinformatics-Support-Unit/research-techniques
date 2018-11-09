@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1541676898514.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2152961156",
+    "id" : "E6E23303",
+    "lastKnownWriteTime" : 1541697457,
+    "last_content_update" : 1541697457866,
+    "path" : "~/Code/derm_course/research_techniques_slides.Rmd",
+    "project_path" : "research_techniques_slides.Rmd",
+    "properties" : {
+        "cursorPosition" : "406,0",
+        "scrollLine" : "399",
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

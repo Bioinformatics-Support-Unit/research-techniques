@@ -1,0 +1,16 @@
+"0","install(c('devtools', 'tidyverse', 
+          'Bioinformatics-Support-Unit/bsudata', 
+          'DESeq2', 'pheatmap'))
+"
+"2","Bioconductor version 3.7 (BiocManager 1.30.3), R 3.5.1 (2018-07-02)
+"
+"2","Installing package(s) 'devtools', 'tidyverse', 'DESeq2', 'pheatmap'
+"
+"2","also installing the dependencies ‘ini’, ‘desc’, ‘xopen’, ‘clisymbols’, ‘fs’, ‘gh’, ‘pkgbuild’, ‘pkgload’, ‘rcmdcheck’, ‘sessioninfo’, ‘usethis’
+
+"
+"1","
+"
+"1","  There is a binary version available but the source version is later"
+"1",":
+"

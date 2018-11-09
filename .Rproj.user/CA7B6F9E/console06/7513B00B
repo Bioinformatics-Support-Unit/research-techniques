@@ -1,0 +1,17 @@
+]0;~/Code/derm_course[?1034h[1m[31m[11:37:03]<~/Code/derm_course>
+[36m[sjcockell@thurston]$ (B[m[K[36m[sjcockell@thurston]$ (B[mls ~/Code/ngs-linux/Intro_To_Practical_Bioinformatics/media/rstudio.png
+/Users/sjcockell/Code/ngs-linux/Intro_To_Practical_Bioinformatics/media/rstudio.png
+]0;~/Code/derm_course[1m[31m[11:37:05]<~/Code/derm_course>
+[36m[sjcockell@thurston]$ (B[mls
+derm_course.Rproj                research_techniques.pdf          [1m[34mresearch_techniques_files[39;49m[0m        [1m[34mresearch_techniques_slides_cache[39;49m[0m
+research_techniques.Rmd          [1m[34mresearch_techniques_cache[39;49m[0m        research_techniques_slides.Rmd   [1m[34mresearch_techniques_slides_files[39;49m[0m
+]0;~/Code/derm_course[1m[31m[11:38:14]<~/Code/derm_course>
+[36m[sjcockell@thurston]$ (B[mmkdir media
+]0;~/Code/derm_course[1m[31m[11:38:18]<~/Code/derm_course>
+[36m[sjcockell@thurston]$ (B[mcp ~/Code/ngs-linux/Intro_To_Practical_Bioinformatics/media/rstudio.png ./media/
+]0;~/Code/derm_course[1m[31m[11:38:23]<~/Code/derm_course>
+[36m[sjcockell@thurston]$ (B[mcp ~/Code/ngs-linux/Intro_To_Practical_Bioinformatics/media/rstudio.png ./media/[1P ./media/[1P ./media/[1P ./media/[1P ./media/[1P ./media/[1P ./media/[5P ./media/[6P ./media/[15P ./media/[10P ./media/[3P ./media/[6P ./media/[6P ./media/[4P ./media/[1P ./media/[1P ./media/[1P ./media/[1P ./media/[1P ./media/[1P ./media/[1P ./media/~ ./media// ./media/C ./media/o ./media/d ./media/e ./media// ./media/n ./media/g ./media/s ./media/- ./media/l ./media/i ./media/n ./media/u ./media/x ./media// ./media/R ./media/N ./media/A ./media/_ ./media/S ./media/e ./media/q ./media/_ ./media/D ./media/a ./media/t ./media/a ./media/_ ./media/A ./media/n ./media/a ./media/l ./media/y ./media/s ./media/i ./media/s ./media// ./media/m ./media/e ./media/d ./media/i ./media/a ./media// ./media/p ./media/c ./media/a ./media/. ./media/p ./media/n ./media/g ./media/
+]0;~/Code/derm_course[1m[31m[11:38:45]<~/Code/derm_course>
+[36m[sjcockell@thurston]$ (B[mcp ~/Code/ngs-linux/RNA_Seq_Data_Analysis/media/ma.png ./media/
+]0;~/Code/derm_course[1m[31m[11:38:55]<~/Code/derm_course>
+[36m[sjcockell@thurston]$ (B[m
